@@ -1,5 +1,6 @@
 # course_network_analysis
 
-## Purpose of the research
+## Research Aim
+The research aims to 
 ## Dataset
 ## Result&Discussion
