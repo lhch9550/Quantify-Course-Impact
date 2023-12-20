@@ -6,7 +6,7 @@ Measuring the impact of vocational education that develops a workforce aligned w
 ## Method
 This study utilizes descriptive data on industry-specific occupations and job-related skills (n=4037) provided by Skillsfuture Singapore API, along with textual data on learning objectives and content of vocational education programs (n=13695), to measure the influence of each vocational education course. Initially, Sentence-BERT, a sentence embedding methodology, is applied to the descriptions of each vocational education course, occupation, and skill, transforming them into 256-dimensional vectors. Subsequently, a cosine similarity-based bipartite network is constructed, connecting courses to occupations/skills. In this network, the coverage of a course is defined by measuring the number of occupational or skill nodes each course node is connected to. Additionally, the bipartite network is projected into a single network based on common occupations/skills, and the number of connecting lines for each course node is measured, serving as a scale for the number of similar courses. The defined influence range of each course is then obtained by dividing the course's coverage by the number of connecting lines, yielding the Course Impact Index.
 
-## Result&Discussion
+## Result & Discussion
 
 ## Citation
 [1] E. Pelinescu, Procedia Economics and Finance 22, 184-190 (2015).   
