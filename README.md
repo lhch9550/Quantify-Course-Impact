@@ -1,5 +1,5 @@
 # course_network_analysis
 
-##Datset
-##Purpose of the research
-##Result&Discussion
+# Purpose of the research
+# Dataset
+# Result&Discussion
