@@ -8,12 +8,8 @@ Measuring the impact of vocational education that develops a workforce aligned w
 ## Result&Discussion
 
 ## Citation
-#[1] E. Pelinescu, Procedia Economics and Finance 22, 184-190 (2015).
-
-#[2] Alabdulkareem et al., Science advances 4 (7), eaao6030 (2018).
-
-#[3] X. Feng and A. Rutherford, Royal Society Open Science 10 (7), 230214 (2023).
-
-#[4] N. Reimers and I. Gurevych, "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks", arXiv preprint arXiv:1908.10084 (2019).
-
-#[5] C. M. Graham and Y. Lu, Journal of Computer Information Systems 63 (4), 937-949 (2023).	
+[1] E. Pelinescu, Procedia Economics and Finance 22, 184-190 (2015).   
+[2] Alabdulkareem et al., Science advances 4 (7), eaao6030 (2018).   
+[3] X. Feng and A. Rutherford, Royal Society Open Science 10 (7), 230214 (2023).   
+[4] N. Reimers and I. Gurevych, "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks", arXiv preprint arXiv:1908.10084 (2019).   
+[5] C. M. Graham and Y. Lu, Journal of Computer Information Systems 63 (4), 937-949 (2023).	
