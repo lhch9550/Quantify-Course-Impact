@@ -38,8 +38,8 @@ To focus on the coverage of specialized jobs/skills by course a, course specific
 
 Course proficiency is represented by the Relative Comparative Advance (RCA) value of each course concerning skills with high proficiency. In the original dataset, each skill is assigned a proficiency level ranging from 1 to 6, with an additional classification of "Advanced." Skills within proficiency levels 1 to 3 are categorized as low proficiency, while those beyond are considered high proficiency. A higher proficiency index for a course or sector indicates a stronger association with a greater number of high-proficiency skills.
 
-<p align="center">
-<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/2adf444a-d4e6-4962-bd5b-fd522d89c886" width="60%" height="50%">
+<p align="left">
+<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/2adf444a-d4e6-4962-bd5b-fd522d89c886" width="50%" height="40%">
 </p>
 
 **Course impact & the Future Economy**
