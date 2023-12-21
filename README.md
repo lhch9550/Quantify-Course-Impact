@@ -40,7 +40,7 @@ To focus on the coverage of specialized jobs/skills by course a, course specific
 
 We conduct regression analysis on the Lecture Impact Index to the Employment Index (Transferability) and Diversity Index in the future labor market. The future Employment Index is based on the number of occupations requiring skills related to the Green Economy, Digital Economy, Care Economy, and the Fourth Industrial Revolution (I4.0 Economy) from 2018 to 2021. To obtain the Employment Index for each course, we sum the Employment Index values of the skill nodes connected to each course node in the course-job/skill bipartite network. 
 
-The Diversity Index is defined as the Shannon entropy for the fields of occupations and skills connected to each lecture node in the education-occupation/skill bipartite network.
+The Diversity Index is defined as the Shannon entropy for the categories of jobs and skills connected to each course node in the bipartite network.
 
 ## Result & Discussion
 The course network, formed by projecting the bipartite network, exhibits a pattern where lectures cluster around educational fields. This suggests that both the text embeddings and the network, constructed based on similarity, effectively preserve the characteristics of vocational education lectures, occupations, and skills.
