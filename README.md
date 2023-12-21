@@ -53,7 +53,7 @@ The proportion of courses with impact indices higher or lower than the overall c
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/fb660d99-da4f-4fb7-947c-04150f40c9ca" width="80%" height="80%">
 </p>
 
-To elucidate the disparity, we compared the median course impact and the median course specificity values across sectors. Notably, a robust correlation (rho=0.82) was observed between these two variables. This suggests that courses covering more specialized jobs or skills within a sector tend to have a higher impact.
+To elucidate the disparity, we compared the median course impact and the median course specificity values across sectors. Notably, a robust correlation (rho=0.82) was observed between these two variables. This suggests that sectors with courses covering more specialized jobs or skills tend to have a higher impact.
 
 <p align="center">
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/e050c15c-d78c-4433-8a43-52ce89304f65" width="80%" height="80%">
