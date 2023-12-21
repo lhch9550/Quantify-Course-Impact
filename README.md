@@ -30,7 +30,7 @@ Sector analysis has been conducted by comparing the proportion of courses with i
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/033957c0-11d3-4694-9f76-83d92f894e20" width="80%" height="80%">
 </p>
 
-To focus on the coverage of specialized jobs/skills by course a, course specificity was derived by computing the inverse of *Kc,1*.
+To focus on the coverage of specialized jobs/skills by course a, course specificity was derived by taking the inverse of *Kc,1*.
 
 <p align="center">
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/2313be43-9f8a-4bf4-b0ff-77f82bc284e7" width="40%" height="30%">
