@@ -6,7 +6,7 @@ Measuring the impact of vocational education that develops a workforce aligned w
 The study utilizes text data on vocational education lectures, occupations, and skills by constructing a similarity-based network based on Sentence-BERT. The study also measures the influence of each vocational education lecture and examines its relationship with employment indices.
 
 ## Method   
-**Quantifying the course impact from network**   
+**Quantifying the course impact from the network**   
 
 This study utilizes textual descriptions of occupations and job-related skills (n=4037) provided by Skillsfuture Singapore API, along with learning objectives and content of vocational education programs (n=13695). Initially, Sentence-BERT is applied to embed the descriptions of each course, occupation, and skill entity and transform them into 384-dimensional vectors. Subsequently, using cosine similarity with the threshold of 0.6, a bipartite network is constructed, connecting courses to occupations/skills. 
 
@@ -20,7 +20,7 @@ The research suggests **course** **impact** as a novel index to quantify the inf
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/669769ab-afff-40bb-a863-a87569cf0b07" width="80%" height="80%">
 </p>
 
-The coverage of a course is determined by the number of occupational or skill nodes to which each course node is connected. Let *k<sub>i</sub>* signify the degree of course node *i* within the projected monopartite course network. For Course Impact Index, dividing the number of relevant jobs/skills(which represents the demand of the labor market) by the count of similar courses(which represents the supply from the educational market), we expect the index to offer a balanced assessment of the course's impact within the broader context of the network.   
+The coverage of a course is determined by the number of occupational or skill nodes to which each course node is connected. Let *k<sub>i</sub>* signify the degree of course node *i* within the projected monopartite course network. As to the newly suggested index, dividing the number of relevant jobs/skills(which represents the demand of the labor market) by the count of similar courses(which represents the supply from the educational market), we expect the index to offer a balanced assessment of the course's impact within the broader context of the network.   
 
 **Course specificity & Proficiency**   
 
@@ -35,6 +35,8 @@ To focus on the coverage of specialized jobs/skills by course a, course specific
 <p align="center">
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/2313be43-9f8a-4bf4-b0ff-77f82bc284e7" width="40%" height="30%">
 </p>
+
+When it comes to course proficiency, 
 
 **Course impact & the Future Economy**
 
@@ -56,7 +58,7 @@ The proportion of courses with impact indices higher or lower than the overall c
 To elucidate the disparity, we compared the median course impact and the median course specificity values across sectors. Notably, a robust correlation (rho=0.82) was observed between these two variables. This suggests that sectors with courses covering more specialized jobs or skills tend to have a higher impact.
 
 <p align="center">
-<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/e050c15c-d78c-4433-8a43-52ce89304f65" width="80%" height="80%">
+<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/f3a82217-afc3-4264-b32f-761f91e6a473" width="80%" height="80%">
 </p>
 
 In our concluding analysis, we performed regression analyses on the Course Impact Index, taking into account employment indices in four economies and diversity indices, resulting in an R<sup>2</sup> of 0.360 and an adjusted R<sup>2</sup> of 0.336. The findings reveal two key insights: 1) a higher Fourth Industrial Revolution employment index correlates with an elevated Course Impact Index, and 2) a lower level of job/skill diversity is related to a higher Course Impact Index.
