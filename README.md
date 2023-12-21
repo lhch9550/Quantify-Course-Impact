@@ -19,9 +19,9 @@ The coverage of a course is determined by the number of occupational or skill no
 
 Sector analysis has been conducted by comparing the proportion of courses with impact indices higher or lower than the overall course impact index median (0.074). A significant difference has been observed in the ratio of above-median to below-median impact indices across various educational sectors. To explore the reasons behind this discrepancy, we incorporated course specificity into our analysis.
 
-![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/033957c0-11d3-4694-9f76-83d92f894e20)
+![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/033957c0-11d3-4694-9f76-83d92f894e20)   
 
-![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/2bad7aea-3f80-4d63-b435-5af55ca01f71)
+![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/2bad7aea-3f80-4d63-b435-5af55ca01f71)   
 
 ## Result & Discussion
 The course network, formed by projecting the bipartite network, exhibits a pattern where lectures cluster around educational fields. This suggests that both the text embeddings and the network, constructed based on similarity, effectively preserve the characteristics of vocational education lectures, occupations, and skills.
