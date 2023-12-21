@@ -14,12 +14,13 @@ The research suggests course_impact as a novel index to quantify the influence o
 The coverage of a course is determined by the number of occupational or skill nodes to which each course node is connected. Let *ki* signify the degree of course node *i* within the projected monopartite course network. The Course Impact Index is calculated by dividing the course's coverage by the number of connecting lines. This index offers a comprehensive perspective by considering both the demand (coverage) and supply (degree) simultaneously. Dividing the number of relevant jobs/skills(which represents the demand of the labor market) by the count of similar courses(which represents the supply from the educational market), we expect the index to offer a balanced assessment of the course's impact within the broader context of the network.
 
 ## Result & Discussion
-The course network constructed by projecting the bipartite network reveals a pattern in which lectures are clustered around educational fields (Fig. 1a). This indicates that the text embeddings and the network constructed from the similarity preserve the attributes of vocational education lectures, occupations, and skills. 
+The course network, formed by projecting the bipartite network, exhibits a pattern where lectures cluster around educational fields. This suggests that both the text embeddings and the network, constructed based on similarity, effectively preserve the characteristics of vocational education lectures, occupations, and skills.
 
 ![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/9a990f76-a4af-4fef-8cda-8e8670c7f6b1)
-#(Fig. 1a)
+
+Based on the median value (0.074) of the overall course impact index, the proportion of courses with impact indices higher and lower than the median was calculated for each field. The results indicate that in fields such as Legal, Aerospace, and Engineering, a significant number of courses have higher impact indices. In contrast, fields like Leadership & People Management, Education and Training, and Food and Beverages show a prevalence of courses with lower impact indices.
+
 ![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/fb660d99-da4f-4fb7-947c-04150f40c9ca)
-#(Fig. 1b)
 
 ## Citation
 [1] E. Pelinescu, Procedia Economics and Finance 22, 184-190 (2015).   
