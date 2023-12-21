@@ -6,8 +6,12 @@ Measuring the impact of vocational education that develops a workforce aligned w
 The study utilizes text data on vocational education lectures, occupations, and skills by constructing a similarity-based network based on Sentence-BERT. The study also measures the influence of each vocational education lecture and examines its relationship with employment indices.
 
 ## Method
-This study utilizes descriptive data on industry-specific occupations and job-related skills (n=4037) provided by Skillsfuture Singapore API, along with textual data on learning objectives and content of vocational education programs (n=13695), to measure the influence of each vocational education course. Initially, Sentence-BERT, a sentence embedding methodology, is applied to the descriptions of each vocational education course, occupation, and skill, transforming them into 384-dimensional vectors. Subsequently, a cosine similarity-based bipartite network is constructed, connecting courses to occupations/skills. In this network, the coverage of a course is defined by measuring the number of occupational or skill nodes each course node is connected to. Additionally, the bipartite network is projected into a single network based on common occupations/skills, and the number of connecting lines for each course node is measured, serving as a scale for the number of similar courses. The defined influence range of each course is then obtained by dividing the course's coverage by the number of connecting lines, yielding the Course Impact Index.
+This study utilizes textual descriptions of occupations and job-related skills (n=4037) provided by Skillsfuture Singapore API, along with learning objectives and content of vocational education programs (n=13695). Initially, Sentence-BERT is applied to embed the descriptions of each course, occupation, and skill entity and transform them into 384-dimensional vectors. Subsequently, using cosine similarity with the threshold of 0.6, a bipartite network is constructed, connecting courses to occupations/skills. 
+
+The research suggests course_impact as a novel index to 
 ![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/104adb73-dbc6-494e-8627-3d3fe08dcdd9)
+
+The coverage of a course is the number of occupational or skill nodes each course node is connected to, while the k_i represents the degree of course node i within the projected monopartite course network. The defined influence range of each course is then obtained by dividing the course's coverage by the number of connecting lines, yielding the Course Impact Index.
 
 ## Result & Discussion
 
