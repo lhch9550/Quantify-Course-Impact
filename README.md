@@ -39,7 +39,7 @@ To focus on the coverage of specialized jobs/skills by course a, course specific
 When it comes to course proficiency, it calculates 
 
 <p align="center">
-<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/2adf444a-d4e6-4962-bd5b-fd522d89c886" width="80%" height="60%">
+<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/2adf444a-d4e6-4962-bd5b-fd522d89c886" width="60%" height="50%">
 </p>
 
 **Course impact & the Future Economy**
