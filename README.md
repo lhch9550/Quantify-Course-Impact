@@ -71,7 +71,7 @@ In our concluding analysis, we performed regression analysis on the Course Impac
 To elaborate further, only the Fourth Industrial Revolution employment index significantly influences the Course Impact Index (β<sub>i4.0</sub>  = 0.2024***). This implies that within Singapore's vocational education space, courses aligned with the Fourth Industrial Revolution exert a substantial impact, emphasizing the need for policy attention. In contrast, the regression coefficients for both job diversity and skill diversity are both negative (β<sub>job</sub> = -0.0792**, β<sub>skill</sub> = -0.3572***), suggesting that courses must be tailored to specific jobs or skill sets to maximize their impact.
 
 <p align="center">
-<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/daa228c5-ce9a-444c-8c75-0d0269a6be36" width="100%" height="100%">
+<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/8d3d0ffc-c5b1-4303-9ecd-9d55c6d5cf7d" width="80%" height="80%">
 </p>
 
 ## Citation
