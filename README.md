@@ -20,7 +20,7 @@ The research suggests **course** **impact** as a novel index to quantify the inf
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/669769ab-afff-40bb-a863-a87569cf0b07" width="80%" height="80%">
 </p>
 
-The coverage of a course is determined by the number of occupational or skill nodes to which each course node is connected. Let *ki* signify the degree of course node *i* within the projected monopartite course network. For Course Impact Index, dividing the number of relevant jobs/skills(which represents the demand of the labor market) by the count of similar courses(which represents the supply from the educational market), we expect the index to offer a balanced assessment of the course's impact within the broader context of the network.   
+The coverage of a course is determined by the number of occupational or skill nodes to which each course node is connected. Let *k<sub>i</sub>* signify the degree of course node *i* within the projected monopartite course network. For Course Impact Index, dividing the number of relevant jobs/skills(which represents the demand of the labor market) by the count of similar courses(which represents the supply from the educational market), we expect the index to offer a balanced assessment of the course's impact within the broader context of the network.   
 
 **Course specificity**   
 
@@ -59,7 +59,7 @@ To elucidate the disparity, we compared the median course impact and the median 
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/e050c15c-d78c-4433-8a43-52ce89304f65" width="80%" height="80%">
 </p>
 
-In our concluding analysis, we performed regression analyses on the Course Impact Index, taking into account employment indices in four economies and diversity indices, resulting in an R^2 value of 0.360 and an adjusted R^2 value of 0.336. The findings reveal two key insights: 1) a higher Fourth Industrial Revolution employment index correlates with an elevated Course Impact Index, and 2) a lower level of job/skill diversity is related to a higher Course Impact Index.
+In our concluding analysis, we performed regression analyses on the Course Impact Index, taking into account employment indices in four economies and diversity indices, resulting in an R<sup>2</sup> of 0.360 and an adjusted R<sup>2</sup> of 0.336. The findings reveal two key insights: 1) a higher Fourth Industrial Revolution employment index correlates with an elevated Course Impact Index, and 2) a lower level of job/skill diversity is related to a higher Course Impact Index.
 
 To elaborate further, only the Fourth Industrial Revolution employment index significantly influences the Course Impact Index (β<sub>i4.0</sub>  = 0.2024***). This implies that within Singapore's vocational education space, courses aligned with the Fourth Industrial Revolution exert a substantial impact, emphasizing the need for policy attention. In contrast, the regression coefficients for both job diversity and skill diversity are both negative (β<sub>job</sub> = -0.0792**, β<sub>skill</sub> = -0.3572***), suggesting that courses must be tailored to specific jobs or skill sets to maximize their impact.
 
