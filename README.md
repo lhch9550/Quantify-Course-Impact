@@ -23,7 +23,7 @@ Sector analysis has been conducted by comparing the proportion of courses with i
 
 The research, focusing on the coverage of specialized jobs/skills by course a, derived course specificity by computing the inverse of *Kc,1*.
 
-![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/2bad7aea-3f80-4d63-b435-5af55ca01f71)   
+![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/cf062b4b-7737-4616-bb58-097d68d57325)
 
 ## Result & Discussion
 The course network, formed by projecting the bipartite network, exhibits a pattern where lectures cluster around educational fields. This suggests that both the text embeddings and the network, constructed based on similarity, effectively preserve the characteristics of vocational education lectures, occupations, and skills.
