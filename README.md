@@ -22,7 +22,7 @@ The research suggests **course** **impact** as a novel index to quantify the inf
 
 The coverage of a course is determined by the number of occupational or skill nodes to which each course node is connected. Let *k<sub>i</sub>* signify the degree of course node *i* within the projected monopartite course network. For Course Impact Index, dividing the number of relevant jobs/skills(which represents the demand of the labor market) by the count of similar courses(which represents the supply from the educational market), we expect the index to offer a balanced assessment of the course's impact within the broader context of the network.   
 
-**Course specificity**   
+**Course specificity & Proficiency**   
 
 Sector analysis has been conducted by comparing the proportion of courses with impact indices higher or lower than the overall course impact index median (0.074). A significant difference has been observed in the ratio of above-median to below-median impact indices across various educational sectors. To explore the reasons behind this discrepancy, course specificity has been incorporated into our analysis.
 
