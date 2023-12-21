@@ -43,7 +43,7 @@ We conduct regression analysis on the Lecture Impact Index to the Employment Ind
 The Diversity Index is defined as the Shannon entropy for the categories of jobs and skills connected to each course node in the bipartite network.
 
 ## Result & Discussion
-The course network, formed by projecting the bipartite network, exhibits a pattern where lectures cluster around educational fields. This suggests that both the text embeddings and the network, constructed based on similarity, effectively preserve the characteristics of vocational education lectures, occupations, and skills.
+The course network, projected from the bipartite network, exhibits a pattern where lectures cluster around educational fields. This suggests that both the text embeddings and the network, constructed based on similarity, effectively preserve the characteristics of vocational education lectures, occupations, and skills.
 
 ![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/9a990f76-a4af-4fef-8cda-8e8670c7f6b1)
 
