@@ -59,7 +59,7 @@ The proportion of courses with impact indices higher or lower than the overall c
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/fb660d99-da4f-4fb7-947c-04150f40c9ca" width="80%" height="80%">
 </p>
 
-To elucidate the disparity, we compared the median course impact and the median course specificity values across sectors. Notably, a robust correlation (rho=0.82) was observed between these two variables. This suggests that sectors with courses covering more specialized jobs or skills tend to have a higher impact.
+It is essential to recognize that increased course specificity does not automatically indicate a correlation with skills requiring advanced proficiency. Our examination, comparing course specificity and proficiency, shows that sectors with heightened specificity often align with lower proficiency levels. This suggests that courses focused on relatively niche occupations and skill sets are better suited for employees aiming to enhance their lower skill levels, particularly those in junior positions.
 
 <p align="left">
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/83cc9f28-b71f-45be-a37e-909a3de57958" width="100%" height="100%">
