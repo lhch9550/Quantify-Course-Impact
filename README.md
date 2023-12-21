@@ -11,7 +11,7 @@ This study utilizes textual descriptions of occupations and job-related skills (
 The research suggests course_impact as a novel index to 
 ![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/104adb73-dbc6-494e-8627-3d3fe08dcdd9)
 
-The coverage of a course is determined by the number of occupational or skill nodes to which each course node is connected. Let *ki* signify the degree of course node *i* within the projected monopartite course network. The Course Impact Index is calculated by dividing the course's coverage by the number of connecting lines. This index offers a comprehensive perspective by considering both the demand (coverage) and supply (degree) simultaneously. It involves dividing the number of relevant jobs or skills by the count of similar courses, it offers a balanced assessment of the course's impact within the broader context of the network.
+The coverage of a course is determined by the number of occupational or skill nodes to which each course node is connected. Let *ki* signify the degree of course node *i* within the projected monopartite course network. The Course Impact Index is calculated by dividing the course's coverage by the number of connecting lines. This index offers a comprehensive perspective by considering both the demand (coverage) and supply (degree) simultaneously. Dividing the number of relevant jobs/skills(which represents the demand of the labor market) by the count of similar courses(which represents the supply from the educational market), We expect the index to offer a balanced assessment of the course's impact within the broader context of the network.
 
 ## Result & Discussion
 
