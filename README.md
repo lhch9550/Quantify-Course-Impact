@@ -27,4 +27,6 @@ The proportion of courses with impact indices higher or lower than the overall c
 [2] Alabdulkareem et al., Science advances 4 (7), eaao6030 (2018).   
 [3] X. Feng and A. Rutherford, Royal Society Open Science 10 (7), 230214 (2023).   
 [4] N. Reimers and I. Gurevych, "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks", arXiv preprint arXiv:1908.10084 (2019).   
-[5] C. M. Graham and Y. Lu, Journal of Computer Information Systems 63 (4), 937-949 (2023).	
+[5] C. M. Graham and Y. Lu, Journal of Computer Information Systems 63 (4), 937-949 (2023).   
+[6] C. A. Hidalgo and R. Hausmann, "The building blocks of economic complexity," Proceedings of the national academy of sciences 106 (26), 10570-10575 (2009).
+
