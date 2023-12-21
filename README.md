@@ -62,7 +62,7 @@ The proportion of courses with impact indices higher or lower than the overall c
 To elucidate the disparity, we compared the median course impact and the median course specificity values across sectors. Notably, a robust correlation (rho=0.82) was observed between these two variables. This suggests that sectors with courses covering more specialized jobs or skills tend to have a higher impact.
 
 <p align="left">
-<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/f3a82217-afc3-4264-b32f-761f91e6a473" width="80%" height="80%">
+<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/83cc9f28-b71f-45be-a37e-909a3de57958" width="80%" height="80%">
 </p>
 
 In our concluding analysis, we performed regression analyses on the Course Impact Index, taking into account employment indices in four economies and diversity indices, resulting in an R<sup>2</sup> of 0.360 and an adjusted R<sup>2</sup> of 0.336. The findings reveal two key insights: 1) a higher Fourth Industrial Revolution employment index correlates with an elevated Course Impact Index, and 2) a lower level of job/skill diversity is related to a higher Course Impact Index.
