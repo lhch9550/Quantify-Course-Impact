@@ -20,7 +20,7 @@ The research suggests **course** **impact** as a novel index to quantify the inf
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/669769ab-afff-40bb-a863-a87569cf0b07" width="80%" height="80%">
 </p>
 
-The coverage of a course is determined by the number of occupational or skill nodes to which each course node is connected. Let *ki* signify the degree of course node *i* within the projected monopartite course network. The Course Impact Index is calculated by dividing the course's coverage by the number of connecting lines. Dividing the number of relevant jobs/skills(which represents the demand of the labor market) by the count of similar courses(which represents the supply from the educational market), we expect the index to offer a balanced assessment of the course's impact within the broader context of the network.   
+The coverage of a course is determined by the number of occupational or skill nodes to which each course node is connected. Let *ki* signify the degree of course node *i* within the projected monopartite course network. For Course Impact Index, dividing the number of relevant jobs/skills(which represents the demand of the labor market) by the count of similar courses(which represents the supply from the educational market), we expect the index to offer a balanced assessment of the course's impact within the broader context of the network.   
 
 **Course specificity**   
 
