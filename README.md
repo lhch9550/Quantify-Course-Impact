@@ -47,11 +47,13 @@ The course network, formed by projecting the bipartite network, exhibits a patte
 
 ![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/9a990f76-a4af-4fef-8cda-8e8670c7f6b1)
 
-The proportion of courses with impact indices higher or lower than the overall course impact index median (0.074) was calculated for each field. The results reveal that fields such as Legal, Aerospace, and Engineering have a substantial number of courses with higher impact indices. Conversely, other fields including Leadership & People Management, Education and Training, and Food and Beverages exhibit a prevalence of courses with lower impact indices.
+The proportion of courses with impact indices higher or lower than the overall course impact index median (0.074) was calculated for each field. The results reveal that some sectors such as Legal, Aerospace, and Engineering have a substantial number of courses with higher impact indices. Conversely, other sectors including Leadership & People Management, Education and Training, and Food and Beverages exhibit a prevalence of courses with lower impact indices.
 
 <p align="center">
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/fb660d99-da4f-4fb7-947c-04150f40c9ca" width="80%" height="80%">
 </p>
+
+To elucidate the sectional disparity, we compared the median course impact and the median course specificity values across sectors. Notably, a robust correlation (rho=0.82) was observed between these two variables. This suggests that courses covering more specialized jobs or skills within a sector tend to have a higher impact.
 
 ## Citation
 [1] E. Pelinescu, Procedia Economics and Finance 22, 184-190 (2015).   
