@@ -10,7 +10,7 @@ The study utilizes text data on vocational education lectures, occupations, and 
 
 This study utilizes textual descriptions of occupations and job-related skills (n=4037) provided by Skillsfuture Singapore API, along with learning objectives and content of vocational education programs (n=13695). Initially, Sentence-BERT is applied to embed the descriptions of each course, occupation, and skill entity and transform them into 384-dimensional vectors. Subsequently, using cosine similarity with the threshold of 0.6, a bipartite network is constructed, connecting courses to occupations/skills. 
 
-The research suggests *course* *impact* as a novel index to quantify the influence of individual courses as follows:
+The research suggests **course** **impact** as a novel index to quantify the influence of individual courses as follows:
 
 <p align="center">
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/538d52e4-5067-4eb7-bd93-2c5b64270728" width="60%" height="60%">
@@ -35,6 +35,9 @@ To focus on the coverage of specialized jobs/skills by course a, course specific
 <p align="center">
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/2313be43-9f8a-4bf4-b0ff-77f82bc284e7" width="40%" height="30%">
 </p>
+
+**Course impact & the Future Economy**
+
 
 ## Result & Discussion
 The course network, formed by projecting the bipartite network, exhibits a pattern where lectures cluster around educational fields. This suggests that both the text embeddings and the network, constructed based on similarity, effectively preserve the characteristics of vocational education lectures, occupations, and skills.
