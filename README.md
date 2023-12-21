@@ -13,7 +13,7 @@ This study utilizes textual descriptions of occupations and job-related skills (
 The research suggests *course* *impact* as a novel index to quantify the influence of individual courses as follows:
 
 <p align="center">
-<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/538d52e4-5067-4eb7-bd93-2c5b64270728" width="80%" height="60%">
+<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/538d52e4-5067-4eb7-bd93-2c5b64270728" width="60%" height="60%">
 </p>
 
 <p align="center">
