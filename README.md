@@ -66,13 +66,12 @@ It is essential to recognize that increased course specificity does not automati
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/36997a8e-f9ea-43c6-9bc6-d33c998063e9" width="100%" height="100%">
 </p>
 
-In our concluding analysis, we performed regression analysis on the Course Impact Index, taking into account employment indices in four economies and diversity indices, resulting in an R<sup>2</sup> of 0.360 and an adjusted R<sup>2</sup> of 0.336. The findings reveal two key insights: 1) a higher Fourth Industrial Revolution employment index correlates with an elevated Course Impact Index, and 2) a lower level of job/skill diversity is related to a higher Course Impact Index.
+In our concluding analysis, we performed regression analysis on the Course Impact Index, taking into account employment indices in four economies and diversity indices, resulting in an R<sup>2</sup> of 0.360 and an adjusted R<sup>2</sup> of 0.336. The findings reveal two key insights: 1) a higher Fourth Industrial Revolution employment index correlates with an elevated Course Impact Index, and 2) a lower level of job/skill diversity is related to a higher Course Impact Index. Last but not least, the regression coefficients for both job diversity and skill diversity are both negative (β<sub>job</sub> = -0.0792**, β<sub>skill</sub> = -0.3572***), suggesting that courses must be tailored to specific jobs or skill sets to maximize their impact.
 
-To elaborate further, only the Fourth Industrial Revolution employment index significantly influences the Course Impact Index (β<sub>i4.0</sub>  = 0.2024***). This implies that in Singapore's vocational educational space, courses aligned with the Fourth Industrial Revolution exert a substantial impact, emphasizing the need for policy attention.  
+To elaborate further, only the Fourth Industrial Revolution employment index significantly influences the Course Impact Index (β<sub>i4.0</sub>  = 0.2024***). This implies that courses aligned with the Fourth Industrial Revolution in Singapore's vocational educational space exert a substantial impact, emphasizing the need for policy attention.  
+<p align="center">
 <img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/8d3d0ffc-c5b1-4303-9ecd-9d55c6d5cf7d" width="80%" height="80%">
 </p>
-Last but not the least, the regression coefficients for both job diversity and skill diversity are both negative (β<sub>job</sub> = -0.0792**, β<sub>skill</sub> = -0.3572***), suggesting that courses must be tailored to specific jobs or skill sets to maximize their impact.
-<p align="center">
 
 ## Citation
 [1] E. Pelinescu, Procedia Economics and Finance 22, 184-190 (2015).   
