@@ -14,6 +14,10 @@ The research suggests course_impact as a novel index to quantify the influence o
 The coverage of a course is determined by the number of occupational or skill nodes to which each course node is connected. Let *ki* signify the degree of course node *i* within the projected monopartite course network. The Course Impact Index is calculated by dividing the course's coverage by the number of connecting lines. This index offers a comprehensive perspective by considering both the demand (coverage) and supply (degree) simultaneously. Dividing the number of relevant jobs/skills(which represents the demand of the labor market) by the count of similar courses(which represents the supply from the educational market), we expect the index to offer a balanced assessment of the course's impact within the broader context of the network.
 
 ## Result & Discussion
+The course network constructed by projecting the bipartite network reveals a pattern in which lectures are clustered around educational fields (Figure 1a). This indicates that the text embeddings effectively preserve the attributes of vocational education lectures, occupations, and skills in a way that emphasizes the centrality of educational domains.
+
+![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/9a990f76-a4af-4fef-8cda-8e8670c7f6b1)
+![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/fb660d99-da4f-4fb7-947c-04150f40c9ca)
 
 ## Citation
 [1] E. Pelinescu, Procedia Economics and Finance 22, 184-190 (2015).   
