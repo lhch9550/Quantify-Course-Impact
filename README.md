@@ -63,11 +63,7 @@ It is essential to recognize that increased course specificity does not automati
 
 
 <p align="left">
-<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/bfc0658f-7d58-4668-9872-4926b987d40b" width="50%" height="50%">
-</p>
-
-<p align="left">
-<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/a795eaf3-bb7f-4d7b-aeaf-92d93a79b6c9" width="50%" height="50%">
+<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/36997a8e-f9ea-43c6-9bc6-d33c998063e9" width="100%" height="100%">
 </p>
 
 In our concluding analysis, we performed regression analysis on the Course Impact Index, taking into account employment indices in four economies and diversity indices, resulting in an R<sup>2</sup> of 0.360 and an adjusted R<sup>2</sup> of 0.336. The findings reveal two key insights: 1) a higher Fourth Industrial Revolution employment index correlates with an elevated Course Impact Index, and 2) a lower level of job/skill diversity is related to a higher Course Impact Index.
