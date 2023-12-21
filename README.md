@@ -20,7 +20,7 @@ The coverage of a course is determined by the number of occupational or skill no
 Sector analysis has been conducted by comparing the proportion of courses with impact indices higher or lower than the overall course impact index median (0.074). A significant difference has been observed in the ratio of above-median to below-median impact indices across various educational sectors. To explore the reasons behind this discrepancy, course specificity has been incorporated into our analysis.
 
 <p align="center">
-<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/033957c0-11d3-4694-9f76-83d92f894e20" width="40%" height="30%">
+<img src="https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/033957c0-11d3-4694-9f76-83d92f894e20" width="80%" height="80%">
 </p>
 
 The research, focusing on the coverage of specialized jobs/skills by course a, derived course specificity by computing the inverse of *Kc,1*.
