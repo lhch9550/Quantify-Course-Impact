@@ -17,9 +17,9 @@ The coverage of a course is determined by the number of occupational or skill no
 The course network constructed by projecting the bipartite network reveals a pattern in which lectures are clustered around educational fields (Fig. 1a). This indicates that the text embeddings and the network constructed from the similarity preserve the attributes of vocational education lectures, occupations, and skills. 
 
 ![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/9a990f76-a4af-4fef-8cda-8e8670c7f6b1)
-(Fig. 1a)
+#(Fig. 1a)
 ![image](https://github.com/lhch9550/Quantify-Course-Impact/assets/74129302/fb660d99-da4f-4fb7-947c-04150f40c9ca)
-(Fig. 1b)
+#(Fig. 1b)
 
 ## Citation
 [1] E. Pelinescu, Procedia Economics and Finance 22, 184-190 (2015).   
