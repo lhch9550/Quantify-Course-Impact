@@ -1,9 +1,7 @@
-# Quantifying the Influence of Education Programs on Occupations with Text Embedding and Similarity-based Networks
+# Quantifying the influence of Vocational Education and Training with text embedding and similarity-based networks
 
-## Research Aim
-Measuring the impact of vocational education that develops a workforce aligned with rapidly changing future industries remains challenging. In contrast to traditional approaches that assess the influence of vocational education based on surveys or achievement tests, analyzing vocational education programs by constructing and examining networks and connecting them to related occupations and skills possibly offers a significant advantage. 
-
-The study utilizes text data on vocational education lectures, occupations, and skills by constructing a similarity-based network based on Sentence-BERT. The study also measures the influence of each vocational education lecture and examines its relationship with employment indices.
+## Abract
+Assessing the potential influence of Vocational Education and Training (VET) courses on creating job opportunities and nurturing work skills has been considered challenging due to the ambiguity in defining their complex relationships and connections with the local economy. Here, we quantify the potential influence of VET courses and explain it with future economy and specialization by constructing a network of more than 17,000 courses, jobs, and skills in Singapore's SkillsFuture data based on their text similarities captured by a text embedding technique, Sentence Transformer. We find that VET courses associated with Singapore's 4th Industrial Revolution economy demonstrate higher influence than those related to other future economies. The course influence varies greatly across different sectors, attributed to the level of specificity of the skills covered. Lastly, we show a notable concentration of VET supply in certain occupation sectors requiring general skills, underscoring a disproportionate distribution of education supply for the labor market.
 
 ## Method   
 **Quantifying the course impact from the network**   
